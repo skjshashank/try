@@ -16,7 +16,7 @@
 <a href="https://medium.com/@skjsq1545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skjsq1545" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jainshashank2412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jainshashank2412" height="30" width="40" /></a>
 </p>
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919829057986). </b> 😊 </em>
+  <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919829057986). </b> 😊 </em>
 
  <br />
 
@@ -43,13 +43,13 @@
 ## Quick Overview 📝
 <div align="center">    
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aaditya2801&show_icons=true&include_all_commits=true&theme=radical" alt="Aaditya's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=skjshashank&show_icons=true&include_all_commits=true&theme=radical" alt="Shashank's github stats" />
 </a>
 <br>
 <br>
 <a href="https://github.com/hackcoderr/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaditya2801&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=skjshashank&layout=compact&theme=radical" />
 </a>
 </div>
 
